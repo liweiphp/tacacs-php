@@ -1,13 +1,12 @@
 {
     "name": "ncmps/tacacs-php",
     "description": "TACACS+ Client developed in PHP",
-    "version": "1.0.4",
     "type": "library",
     "license": "GPL-2.0-only",
     "authors": [
         {
-            "name": "Martín Claro",
-            "email": "martin.claro@gmail.com"
+            "name": "liwei",
+            "email": "liwei@ncmps.com"
         }
     ],
     "autoload": {
