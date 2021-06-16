@@ -1,5 +1,5 @@
 {
-    "name": "ncmps/tacacs-php",
+    "name": "ncmpstac/tacacs-php",
     "description": "TACACS+ Client developed in PHP",
     "type": "library",
     "license": "GPL-2.0-only",
