@@ -14,23 +14,14 @@ For further information about TACACS+ please refer to: https://tools.ietf.org/ht
 
 ## Version
 
-1.0.4
+1.0
 
 ## Installation
+composer require ncmpstac/tacacs-php
 
-```sh
-$ git clone git@github.com:liweiphp/tacacs-php.git
-$ cd tacacs-php
-$ composer update
-$ php examples/tacacs-client.php
-```
 ## Development
 
 Want to contribute? Great!
-
-## TODO's
-
-- MS-CHAP Authentication
 
 ## License
 GNU General Public License
